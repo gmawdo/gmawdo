@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in the general area of Secure by Design which covers many things including irrefutable audit and memory safety.
 - 🌱 I’m working on memory safe irrefutable audit problems using Rust, zk-SNARKs and blockchain tech.
-- 🚀 I'm interested in cross-chain comms and in particular zk-Bridges and Decentralized relayers.
+- 🚀 I'm interested in the vulnerability and scalability of cross-chain comms and in particular zk-Bridges and Decentralized relayers.
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 
 ## 🌟 Skills
@@ -13,7 +13,9 @@
 - Highly parallel programming, low latency, high throughput systems
 - Profiling: Memory safety tools, Linters (Clippy), Benchmarking (bench), instruments, VisualVM
 - Conference presentation
+- Mathematics graduate, post-grad Computer Science
 
 ## Contributions
 - Co architected and build out the world's first internet banking solution in the late 1990s
 - A number of patents relating to enterprise service architectures and secure data storage
+- Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds
