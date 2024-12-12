@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gary Mawdsley a Mathematician and Computer Scientist!
 
 - 🔭 I’m currently working in the general area of Secure by Design which covers many things including irrefutable audit and memory safety.
-- 🌱 I’m working on memory safe irrefutable audit problems using Rust, zk-SNARKs and blockchain tech.
+- 🌱 I’m working on memory safe, irrefutable audit problems using Rust, zk-SNARKs and blockchain tech stack more generally.
 - 🚀 I'm interested in the vulnerability and scalability of cross-chain comms and in particular zk-Bridges and Decentralized relayers.
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 
