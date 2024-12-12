@@ -18,4 +18,5 @@
 ## Contributions
 - Co architected and build out the world's first internet banking solution in the late 1990s
 - A number of patents relating to enterprise service architectures and secure data storage
+- Developed ideas and implementation of Theia Cloud adding Kubenetes auto cleanup to highly subscribed cloud IDE services
 - Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds
