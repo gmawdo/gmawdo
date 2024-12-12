@@ -20,3 +20,13 @@
 - A number of patents relating to enterprise service architectures and secure data storage
 - Developed ideas and implementation of Theia Cloud adding Kubenetes auto cleanup to highly subscribed cloud IDE services
 - Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds
+
+## Patents I've obtained as part of my work on projects
+- Blockchain based access control using time-dependent obfuscation of access tokens (US,EU)
+- Private information storage system (US,EU)
+- Method and apparatus for data obfuscation (US)
+- Data processing systems and methods (UK)
+
+Simply Google "Patents Gary Mawdsley" and click the Justia links
+
+
