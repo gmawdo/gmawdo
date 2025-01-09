@@ -7,11 +7,11 @@
 
 ## 🌟 Skills
 - Languages: Rust, Java, Typescript, Python (2.7 and 3), Scala, Solidity, Ink, Ruby, C++
-- Databases: RocksDB, Redis, WiredTiger, MongoDB, IPFS, S3, SQL(Oracle, Postgres, MySQL)
-- Cryptography: Merkle Trees, Hash Functions (poseidon, sha256), Polynominals, Elliptic Curves, ZK-SNARKs, Shamir's Secret Sharing and linear alegbra SS alternatives
+- Databases: RocksDB, Redis, WiredTiger, MongoDB, IPFS, S3, SQL(Oracle at scale, Postgres, MySQL)
+- Cryptography: Merkle Trees, Hash Functions (poseidon, sha256), Polynominals, Elliptic Curves over Finite Fields, ZK-SNARKs, Shamir's Secret Sharing and linear alegbra SS alternatives
 - Container related: Docker, Kubernetes, Helm, VMWare, Minikube, Kafka
 - Highly parallel programming, low latency, high throughput systems
-- Profiling: Memory safety tools, Linters (Clippy), Benchmarking (bench), instruments, VisualVM
+- Profiling: Memory safety tools, Linters (Clippy), Benchmarking (criterion), instruments, VisualVM
 - Conference presentation
 - Mathematics graduate, post-grad Computer Science
 
@@ -21,7 +21,7 @@
 - Developed ideas and implementation of Theia Cloud adding Kubenetes auto cleanup to highly subscribed cloud IDE services
 - Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds
 
-## Patents I've obtained as part of my work on projects
+## Patents I've obtained historically as part of my work on projects
 - Blockchain based access control using time-dependent obfuscation of access tokens (US,EU)
 - Private information storage system (US,EU)
 - Method and apparatus for data obfuscation (US)
