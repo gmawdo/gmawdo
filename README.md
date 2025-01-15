@@ -4,6 +4,7 @@
 - 🌱 I’m working on memory safe, irrefutable audit problems using Rust, zk-SNARKs and blockchain tech stack more generally.
 - 🚀 I'm interested in the vulnerability and scalability of cross-chain comms and in particular zk-Bridges and Decentralized relayers.
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
+- ✖️ g_mawdo
 
 ## 🌟 Skills
 - Languages: Rust, Java, Typescript, Python (2.7 and 3), Scala, Solidity, Ink, Ruby, C++
