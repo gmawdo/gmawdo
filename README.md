@@ -5,6 +5,7 @@
 - 🚀 I'm interested in the vulnerability and scalability of cross-chain comms and in particular zk-Bridges and Decentralized relayers.
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 - ✖️ g_mawdo
+- ✈️ @gmawdo (Telegram)
 
 ## 🌟 Skills
 - Languages: Rust, Java, Typescript, Python (2.7 and 3), Scala, Solidity, Ink, Ruby, C++
@@ -23,10 +24,10 @@
 - Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds
 
 ## Patents I've obtained historically as part of my work on projects
-- Blockchain based access control using time-dependent obfuscation of access tokens (US,EU)
-- Private information storage system (US,EU)
-- Method and apparatus for data obfuscation (US)
-- Data processing systems and methods (UK)
+- Blockchain based access control using time-dependent obfuscation of access tokens (US,EU) (Access control)
+- Private information storage system (US,EU) (Data security)
+- Method and apparatus for data obfuscation (US) (Data security)
+- Data processing systems and methods (UK) (Microservices, Enterprise Services)
 
 Simply Google "Patents Gary Mawdsley" and click the Justia links
 
