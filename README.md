@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in the general area of Secure by Design which covers many things including irrefutable audit and memory safety.
 - 🌱 I’m working on memory safe, irrefutable audit problems using Rust, zk-SNARKs and blockchain tech stack more generally.
-- 🚀 I'm interested trust and traceability across a number of use cases. Some examples are critical infrastructure design, carbon credit proofs, attesting to conclusions drawn from sensitive telemetry and AI.
+- 🚀 I'm interested in trust and traceability across a number of use cases. Some examples are critical infrastructure design, carbon credit proofs, attesting to conclusions drawn from sensitive telemetry and AI.
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 - ✖️ g_mawdo
 - ✈️ @gmawdo (Telegram)
