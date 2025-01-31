@@ -15,8 +15,10 @@ The name changes represent tech and application pivots.
 - Architected and implemented a series of traceability and proof systems attesting to things from carbon savings to chip design contributions
 - AI: Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds avoiding typical AI training patterns
 - Developed ideas and implementation of Theia Cloud adding Kubenetes auto cleanup feature to highly subscribed cloud IDE services
+- Cofounded a company that developed and patented a microservices and enterprise services orchestration suite
 - Co architected and built out the world's first internet banking solution in the late 1990s
-- A number of patents relating to enterprise service architectures and secure data storage
+  
+See the next section below detailing patents obtained as a result of my work over the past two decades
 
 ## Patents I've obtained historically as part of my work on projects and indicative of my strategic thinking
 - Blockchain based access control using time-dependent obfuscation of access tokens (US,EU) (Access control)
