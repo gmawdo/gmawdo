@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gary Mawdsley a Mathematician and Computer Scientist!
 
-- 🔭 I’m currently working in the general area of Secure by Design which covers many things including irrefutable audit and memory safety.
-- 🌱 I’m working on memory safe, irrefutable audit problems using Rust, zk-SNARKs and blockchain tech stack more generally.
+- 🔭 The focus of my work is on trust and privacy and in particular workflows requiring traceability and proofs.
+- 🌱 I’m working on proof and traceability systems using Rust, zk-SNARKs, zk_STARKS, Halo2, and various blockchain tech stacks with particular reference to finality times and costs.
 - 🚀 I'm interested in trust and traceability across a number of use cases. Some examples are critical infrastructure design, carbon credit proofs, attesting to conclusions drawn from sensitive telemetry and AI.
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 - ✖️ g_mawdo
