@@ -11,7 +11,7 @@ Solving Real-World Challenges
 - Geospatial Object Identification & Traceability: A Eigenvector based AI tech that enables the identification of man-made objects in the natural landscape and provides traceability of key transformations that led to the coordinates of identified “issues.”
   - *Example 1*: Detecting vegetation encroaching on power lines to prevent outages and wildfires.
   - *Example 2*: Identifying military objects in unexpected locations to enhance situational awareness and security.
-  - [Check out the theory](https://github.com/gmawdo/SignalCalculus)
+  - [Check out the theory](https://github.com/gmawdo/SignalCalculustree/master/Papers)
   - [Check out an implementation in Python](https://github.com/gmawdo/EigenFilter)
 
 What This Enables
