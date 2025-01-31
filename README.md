@@ -6,15 +6,21 @@
 - ✖️ g_mawdo
 - ✈️ @gmawdo (Telegram)
 
-For the avoidance of doubt the technology created and the resultant IP craeted from 2018 is owned by one UK entity which has had a number of names during it's 8 year history:
-2018 - 2020 DataSignals, *2020 - 2024 Lockular*, **2024 - present Origin Matters**
-The name changes represent tech and application pivots.
+For clarity, the technology developed and the resulting IP created since 2018 are owned by a single UK entity, which has undergone several name changes over its 8-year history:  
+- **2018 - 2020: DataSignals**  
+- **2020 - 2024: Lockular**  
+- **2024 - Present: Origin Matters**  
+
+Each name change reflects a strategic pivot in technology and application focus:  
+- **DataSignals (2018-2020):** Focused on identifying signals in data, including powerline monitoring and secure distributed data stores with access tracking.  
+- **Lockular (2020-2024):** Developed a secure vault for IoT devices and cloud containers, ensuring irrefutable tracking of data generation and data usage.  
+- **Origin Matters (2024-Present):** Evolved to incorporate cryptographic proofs for tracking, recognizing that many workflows require verifiable provenance.
 
 ## Contributions
-- Engineered an NFS with intrinsic irrefutable audit
 - Architected and implemented a series of traceability and proof systems attesting to things from carbon savings to chip design contributions
-- AI: Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds avoiding typical AI training patterns
+- Engineered an NFS with intrinsic irrefutable audit
 - Developed ideas and implementation of Theia Cloud adding Kubenetes auto cleanup feature to highly subscribed cloud IDE services
+- AI: Eigenvector approach to detecting human objects in the natural landscape from LIDAR feeds avoiding typical AI training patterns
 - Cofounded a company that developed and patented a microservices and enterprise services orchestration suite
 - Co architected and built out the world's first internet banking solution in the late 1990s
   
