@@ -2,7 +2,7 @@
 
 - 🔭 The focus of my work is on trust and privacy and in particular workflows requiring traceability and proofs.
 - 🌱 I’m working on proof and traceability systems using Rust, zk-SNARKs, zk_STARKS, Halo2, and various blockchain tech stacks with particular reference to finality times and costs.
-- 🚀 [Here's more info in respect of where my commercial focus is](background.md)
+- 🚀 [Some commercial applications I'm involved with](background.md)
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 - ✖️ g_mawdo
 - ✈️ @gmawdo (Telegram)
