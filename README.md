@@ -7,7 +7,7 @@
 - ✈️ @gmawdo (Telegram)
 
 For the avoidance of doubt the technology created and the resultant IP craeted from 2018 is owned by one UK entity which has had a number of names during it's 8 year history:
-2018 - 2020 DataSignals, *2020 - 2024 Lockular*, **2034 - present Origin Matters**
+2018 - 2020 DataSignals, *2020 - 2024 Lockular*, **2024 - present Origin Matters**
 The name changes represent tech and application pivots.
 
 ## Contributions
