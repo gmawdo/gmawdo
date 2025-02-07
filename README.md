@@ -33,6 +33,7 @@
   - Deep experience with microservices and service aggregations (I hold UK patent here)
 - Generally across career
   - Languages: Rust, Java, Typescript, Python (2.7 and 3), Scala, Solidity, Ink, Ruby, C++
+  - Integration: REST, XSD, XML, JSON, APIs, gRPC, protobuf, XCM, Interfaces, Traits
   - Databases: RocksDB, Redis, WiredTiger, MongoDB, IPFS, S3, SQL(Oracle at scale, Postgres, MySQL)
   - Container related: Docker, Kubernetes, Helm, VMWare, Minikube, Kafka
   - Conference presentation
