@@ -15,7 +15,7 @@ Solving Real-World Challenges
   - [Check out an implementation in Python](https://github.com/gmawdo/EigenFilter)
 - **Carbon Savings:** Attesting to savings produced by an industry boiler adapter applied in UK hospitals, schools, and prisons. By providing cryptographic proof of efficiency gains, we enable organizations to validate and report genuine carbon reductions with confidence.
 
-Looking to forge relationships facilitating the application of the the framework and techniques different industries
+Looking to forge relationships facilitating the application of the framework and techniques across a number of different industries but with similar application
   
 - **Treasury Compliance in Banking:** (Active) Financial institutions are mandated to maintain sufficient liquidity to meet short-term obligations, as outlined in regulations such as the Liquidity Coverage Ratio (LCR) under Basel III. This requires banks to hold high-quality liquid assets to cover potential cash outflows during a 30-day stress scenario. The technology I help create provides cryptographic proofs to attest to the institution's liquidity positions, ensuring accurate tracking and reporting for compliance purposes.
 - **Aviation Safety**: (Active) Commercial airline engines generate vast amounts of telemetry data in real-time. This data must be continuously checked against safety rules, batched, and recorded ensuring that every reading confirms the engines are operating within tolerance. Cryptographic proofs are used to attest the underlying telemetry absolutely supports reported conclusions.
