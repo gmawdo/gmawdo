@@ -24,7 +24,7 @@
 ## 🌟 Tech Skills
 - Importantly
   - Mathematics graduate, post-grad Computer Science
-  - Cryptography: Merkle Trees, Hash Functions (poseidon, sha256), Polynominals, Elliptic Curves over Finite Fields, ZK-SNARKs, Shamir's Secret Sharing and linear alegbra SS alternatives
+  - Cryptography: Merkle Trees, Hash Functions (poseidon, sha256), Elliptic Curves over Finite Fields, ZK-SNARKs, ZK-Rollups, Shamir's Secret Sharing, clearly Polynominals are LCD
   - Deep familarity with Rust including advanced concepts such as generics, lifetimes, memory management, concurrentcy, no cost abstractions
   - Highly parallel programming, low latency, high throughput systems
   - In depth blockchain architectural understanding including consenus approaches, finality and rollup protocols
