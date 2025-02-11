@@ -4,7 +4,8 @@
 - 🚀 [Some commercial applications I'm involved with](background.md)
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 - ✖️ g_mawdo
-- ✈️ @gmawdo (Telegram) 
+- ✈️ @gmawdo (Telegram)
+- 🔗 https://www.linkedin.com/in/gary-mawdo-mawdsley/
 
 ## Contributions
 - 2024-2025: Architected and implemented a series of traceability and proof systems attesting to things from carbon savings to chip design contributions using arkworks libraries
