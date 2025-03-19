@@ -4,7 +4,7 @@
 - 🚀 [Some commercial applications I'm involved with](background.md)
 - 📫 Reach me at [upside.87.burst@icloud.com](mailto:upside.87.burst@icloud.com).
 - ✖️ g_mawdo
-- ✈️ @gmawdo (Telegram)
+- ✈️ @parieshouse (Telegram)
 - 🔗 https://www.linkedin.com/in/gary-mawdo-mawdsley/
 
 ## Contributions
