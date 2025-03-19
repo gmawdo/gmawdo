@@ -28,3 +28,5 @@ What This Enables
 - Movement & Delivery: Has it been shipped? Can we trace its journey end-to-end?
 
 By bringing transparency to these processes, blind spots are eliminated, risk reduced, trust that is provable is established, whether in regulated industries, AI-driven decision-making, or high-stakes operations.
+
+The nucleus of my activities are summarised by these guys: [Paries](https://paries.co.uk)
