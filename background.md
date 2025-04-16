@@ -3,9 +3,11 @@ From mission-critical systems to regulatory oversight, organisations need verifi
 
 The software I work on provides a trusted framework for tracking how things evolve, ensuring compliance, and verifying authenticity.
 
+The commercial nucleus of my activities are summarised here: [Paries](https://paries.co.uk)
+
 Solving Real-World Challenges
 - **Secure by Design**: Providing complete silicon chip design traceability. This includes tracking who worked on the designs, what they created, changed, and viewed, as well as their role within a structured design team. It also covers referenced sub-designs, ensuring full design provenance and accountability. The solution leverages the following:
-  - [NFS with irrfutable merkle tree and blockchain audit](https://github.com/gmawdo/graymamba)
+  - [NFS with irrefutable merkle tree and blockchain audit](https://github.com/gmawdo/graymamba)
   - [VSCode based IDE from Eclipse Source, Ericsson, Lockular](https://github.com/gmawdo/theia-cloud-secureworking)
   - [Bespoke blockchain for speed](https://github.com/gmawdo/grayscorpion)
 - **Geospatial Object Identification & Traceability**: A Eigenvector based AI tech that enables the identification of man-made objects in the natural landscape and provides traceability of key transformations that led to the coordinates of identified “issues.”
@@ -28,5 +30,3 @@ What This Enables
 - Movement & Delivery: Has it been shipped? Can we trace its journey end-to-end?
 
 By bringing transparency to these processes, blind spots are eliminated, risk reduced, trust that is provable is established, whether in regulated industries, AI-driven decision-making, or high-stakes operations.
-
-The nucleus of my activities are summarised by these guys: [Paries](https://paries.co.uk)
